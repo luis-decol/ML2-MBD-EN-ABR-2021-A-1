@@ -3,7 +3,10 @@ Repository for the ML2 class of the Big Data and Analytics Master.
 
 In this repository you will find all the technical materials related to this course (notebooks, scripts, files,...).
 
-Please read carefully the following instructions to setup the environment needed for the practices
+Please read carefully the following instructions to setup the environment needed for the practices if you want to configure your computer to execute the notebooks.
+
+If you prefer to execute them in an online environment, please refer to [Execute the notebooks remotely](#execute-the-notebooks-remotely)
+
 
 # Using the ML2 environment
 
@@ -70,7 +73,7 @@ Installing the required libraries in our environment it’s as easy as follows (
 pip install -r requirements.txt
 ```
 
-# Open a Jupyter/JupyterLab session with our current environment
+## Open a Jupyter/JupyterLab session with our current environment
 
 Before opening a Jupyter session, we have to make sure that our environments will be included. In order to solve this, run the following command:
 
@@ -94,3 +97,7 @@ A new tab of your browser will open with the Jupyter session, showing all the av
 Notebooks list.
 
 And now you’re ready to start!
+
+# Execute the notebooks remotely
+
+If you prefer to execute the notebooks remotely, launch an online notebook environment using [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acastellanos-ie/ML2-MBD-EN-ABR-2021-A-1/HEAD)
