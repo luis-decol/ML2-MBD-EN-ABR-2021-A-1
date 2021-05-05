@@ -3,7 +3,7 @@ Repository for the ML2 class of the Big Data and Analytics Master.
 
 In this repository you will find all the technical materials related to this course (notebooks, scripts, files,...).
 
-Please read carefully the following instructions to setup the environment needed for the practices if you want to configure your computer to execute the notebooks.
+Please read carefully the following instructions ([Using the ML2 environment](#using-the-ML2-environment)) to setup the environment needed for the practices if you want to configure your computer to execute the notebooks.
 
 If you prefer to execute them in an online environment, please refer to [Execute the notebooks remotely](#execute-the-notebooks-remotely)
 
